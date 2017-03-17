@@ -1,2 +1,2 @@
 # leccion-12
-comandos de git
+## como empezar a utilizar los comandos de git
